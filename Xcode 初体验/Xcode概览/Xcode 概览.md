@@ -1,4 +1,4 @@
-# AASwitchPro
+# Xcode 用户使用手册中文译本
 `Xcode` 是苹果公司的一项集成开发环境(IDE),您可以使用Xcode 为苹果公司的产品创建各式各样的APP 应用,
 这些产品其中包括 iPad,iPhone,Apple Watch,Apple TV, 和 Mac.Xcode 提供多种工具来管理您的整个
 开发工作流,从创建您的应用,到测试,优化,提交应用至 App Store 等全流程一站式服务.
